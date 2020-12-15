@@ -1,0 +1,12 @@
+C:\Users\leandro.bpinto\source\repos\TP3_Pessoa\PessoaLib\bin\Debug\PessoaLib.dll
+C:\Users\leandro.bpinto\source\repos\TP3_Pessoa\PessoaLib\bin\Debug\PessoaLib.pdb
+C:\Users\leandro.bpinto\source\repos\TP3_Pessoa\PessoaLib\obj\Debug\PessoaLib.csproj.CoreCompileInputs.cache
+C:\Users\leandro.bpinto\source\repos\TP3_Pessoa\PessoaLib\obj\Debug\PessoaLib.dll
+C:\Users\leandro.bpinto\source\repos\TP3_Pessoa\PessoaLib\obj\Debug\PessoaLib.pdb
+C:\Users\leandro.bpinto\source\repos\TP3_Pessoa\PessoaLib\obj\Debug\PessoaLib.csprojAssemblyReference.cache
+C:\Users\liminha\Desktop\AT\PessoaLib\bin\Debug\PessoaLib.dll
+C:\Users\liminha\Desktop\AT\PessoaLib\bin\Debug\PessoaLib.pdb
+C:\Users\liminha\Desktop\AT\PessoaLib\obj\Debug\PessoaLib.csprojAssemblyReference.cache
+C:\Users\liminha\Desktop\AT\PessoaLib\obj\Debug\PessoaLib.csproj.CoreCompileInputs.cache
+C:\Users\liminha\Desktop\AT\PessoaLib\obj\Debug\PessoaLib.dll
+C:\Users\liminha\Desktop\AT\PessoaLib\obj\Debug\PessoaLib.pdb
